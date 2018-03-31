@@ -1,4 +1,4 @@
-# garmin
+# Garmin
 
 Help to develop : 
 https://developer.garmin.com/connect-iq/programmers-guide/getting-started/
